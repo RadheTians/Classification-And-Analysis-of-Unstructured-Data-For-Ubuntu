@@ -41,26 +41,26 @@ Classification and analysis of unstructured data: Need to develop a tool/system 
  
 ### Packages :  
 
-   $ pip install subprocess
-   $ pip install os
-   $ pip install pymongo
+   	$ pip install subprocess
+   	$ pip install os
+   	$ pip install pymongo
 
  
 ### Python2 env :
  
-   $ sudo apt update
-   $ sudo apt upgrade
-   $ sudo apt install python2.7 python-pip
+   	$ sudo apt update
+   	$ sudo apt upgrade
+   	$ sudo apt install python2.7 python-pip
 
 
 ### Setting up PyQt5 env for Python2 :
 
-   $ sudo apt-get install python-pyqt5
+   	$ sudo apt-get install python-pyqt5
 
 
 ### Installing Command line interface(CLI) exiftool :
  
-   $ sudo apt install libimage-exiftool-perl
+   	$ sudo apt install libimage-exiftool-perl
  
 
 ## USER INSTRUCTIONS
