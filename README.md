@@ -67,12 +67,12 @@ Classification and analysis of unstructured data: Need to develop a tool/system 
  
    1. Open terminal(Ctrl+Alt+T), and change/move to the directory of the file mdata.py ,i.e, mini.
 
-   $ cd /'PATH'/mini
+   	$ cd /'PATH'/mini
 
  
    2. Open the tool to start, by executing mdata.py file.
  
-   $ python mdata.py
+   	$ python mdata.py
  
    
    3. Enter the pathname in the tool for metadata extraction and click on the button for its corresponding type of sorted output.
